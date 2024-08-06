@@ -1,0 +1,80 @@
+
+body{
+    background-color: #fff;
+    font-family: sans-serif;
+    color: white;
+    margin: 0;
+}
+
+.t {
+    color: #222;
+    text-align: center;
+    margin: auto;
+    text-shadow: 0 0 5px #f88;
+    background: linear-gradient(#aaa, transparent);
+    margin-top: 0;
+    
+
+}
+.card {
+    background-color: #6ac;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px 10px;
+    box-shadow: 0 0  25px #0006;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+}
+
+.red_card {
+    background-color: #f86;
+}
+
+.green_card {
+    background-color: #5b7;
+}
+
+.card_title {
+    
+    font-size: 22px;
+    text-transform: uppercase;
+    margin: 0px;
+    
+}
+
+.card_subtitle {
+    font-size: 13px;
+    font-weight: 100 ;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+    margin-top: 5px;
+    
+}
+
+.card_content {
+    font-size: 9px ;
+    padding:  10px;
+    padding-bottom: 0;
+    text-align: justify;
+    margin-bottom: 0;
+    
+    
+    
+}
+
+.card_img {
+    width: 100px;
+    border-radius: 100%;
+    
+
+}
+
+.opaco {
+    width: 100px;
+    background-color: #0006;
+}
+
